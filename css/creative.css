@@ -284,8 +284,9 @@ header .header-content-inner hr {
   color: #F05F40;
 }
 .no-gutter > [class*='col-'] {
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 10px;
 }
 .btn-default {
   color: #222222;
